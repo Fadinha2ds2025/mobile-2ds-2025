@@ -5,7 +5,7 @@ class Aula01 extends Component {
     render(){
         return(
             <View>
-                <Text>Estrutura Padrâo!</Text>
+                <Text>👉👌🤷‍♂️😇</Text>
             </View>
         );
     }
